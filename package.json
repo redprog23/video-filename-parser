@@ -6,11 +6,8 @@
   "license": "MIT",
   "repository": "scttcper/video-filename-parser",
   "homepage": "https://video-filename-parser.vercel.app",
-  "exports": "./dist/src/index.js",
-  "types": "./dist/src/index.d.ts",
-  "files": [
-    "dist/src"
-  ],
+  "exports": "./src/index.ts",
+  "files": ["src"],
   "sideEffects": false,
   "keywords": [
     "scene",
